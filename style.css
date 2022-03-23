@@ -1,0 +1,14 @@
+body {
+    background-color: black;
+    text-align: center;
+}
+
+h1 {
+    color: blueviolet;
+    background-color: grey;
+}
+
+h2 {
+    color: grey;
+    background-color: blanchedalmond;
+}
