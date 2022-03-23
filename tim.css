@@ -1,0 +1,19 @@
+body {
+  text-align: center;
+  background-color:darkolivegreen;
+}
+
+h1 {
+  color: red;
+  font-size: xx-large;
+}
+
+h2 {
+  font-style: italic;
+  color:fuchsia; 
+}
+
+h3 {
+ text-decoration: line-through double;
+
+}
