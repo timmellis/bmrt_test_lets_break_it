@@ -1,0 +1,17 @@
+body {
+    background-color: grey;
+    text-align: center;
+}
+
+h1 {
+    color: salmon;
+    font-size: 50px;
+}
+
+h3 {
+    color:aquamarine;
+}
+
+h4 {
+    color: white;
+}
